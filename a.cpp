@@ -1,9 +1,15 @@
 #include <iostream>
-
+#include <string>
 using namespace std;
 
 int main()
 {
-    cout << "hello" << endl;
+
+    string si;
+    while (cin >> si)
+    {
+        cout << si << endl;
+    }
+
     return 0;
 }
