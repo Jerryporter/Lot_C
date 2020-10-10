@@ -1,0 +1,1 @@
+htonl(INADDR_ANY)
